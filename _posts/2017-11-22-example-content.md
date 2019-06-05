@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Example content
+title: Personal Information
 description: >
-  This is a normal paragraph following a header.
-  GitHub is a code hosting platform for version control and collaboration.
-  It lets you and others work together on projects from anywhere.
-tags: [hydejack]
+ 
+ 이곳은 초보자 개발자 의 홈페이지 입니다. Well Come to HelloWorld
+
+tags: [Wi Junseok]
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
