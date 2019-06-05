@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Hyde
+title: 내 작품 목록
 slug: hyde
 menu: true
 order: 1
